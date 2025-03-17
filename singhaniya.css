@@ -1,0 +1,21 @@
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+
+ body .working{
+    /* border: 1px solid black; */
+    align-items: center; 
+    justify-content: center;
+    justify-items: center;
+}
+.working span{
+    color: rgb(220, 119, 119);
+}
+.w1 span{
+    color: rgb(200, 47, 47);
+}
